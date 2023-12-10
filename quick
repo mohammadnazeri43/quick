@@ -1,6 +1,6 @@
 سثقغqeaegzc
 alailai42242 c4
-sudo apt-get remove dockeلr docker-engine docker.io containerd runc
+sudo apt-get remeove dockeلr docker-engine docker.io containerd runc
 
 sudo apt-get update
 
